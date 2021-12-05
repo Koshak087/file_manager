@@ -1,0 +1,9 @@
+06.12.2021 1:45:24 Сообщение об ошибке: Access to the path 'C:\Users\User\Documents\Мои видеозаписи' is denied.
+06.12.2021 1:45:24 Сообщение об ошибке: Access to the path 'C:\Users\User\Documents\Мои видеозаписи' is denied.
+06.12.2021 1:45:24 Сообщение об ошибке: Access to the path 'C:\Users\User\Documents\мои рисунки' is denied.
+06.12.2021 1:45:24 Сообщение об ошибке: Access to the path 'C:\Users\User\Documents\Моя музыка' is denied.
+06.12.2021 1:46:33 Сообщение об ошибке: Length cannot be less than zero. (Parameter 'length')
+06.12.2021 1:50:03 Сообщение об ошибке: Access to the path 'C:\Users\User\Documents\Мои видеозаписи' is denied.
+06.12.2021 1:50:04 Сообщение об ошибке: Access to the path 'C:\Users\User\Documents\Мои видеозаписи' is denied.
+06.12.2021 1:50:04 Сообщение об ошибке: Access to the path 'C:\Users\User\Documents\мои рисунки' is denied.
+06.12.2021 1:50:04 Сообщение об ошибке: Access to the path 'C:\Users\User\Documents\Моя музыка' is denied.

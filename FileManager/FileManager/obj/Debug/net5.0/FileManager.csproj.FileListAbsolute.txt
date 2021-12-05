@@ -1,0 +1,16 @@
+E:\C#\study\file_manager\FileManager\FileManager\bin\Debug\net5.0\FileManager.exe
+E:\C#\study\file_manager\FileManager\FileManager\bin\Debug\net5.0\FileManager.deps.json
+E:\C#\study\file_manager\FileManager\FileManager\bin\Debug\net5.0\FileManager.runtimeconfig.json
+E:\C#\study\file_manager\FileManager\FileManager\bin\Debug\net5.0\FileManager.runtimeconfig.dev.json
+E:\C#\study\file_manager\FileManager\FileManager\bin\Debug\net5.0\FileManager.dll
+E:\C#\study\file_manager\FileManager\FileManager\bin\Debug\net5.0\ref\FileManager.dll
+E:\C#\study\file_manager\FileManager\FileManager\bin\Debug\net5.0\FileManager.pdb
+E:\C#\study\file_manager\FileManager\FileManager\obj\Debug\net5.0\FileManager.csproj.AssemblyReference.cache
+E:\C#\study\file_manager\FileManager\FileManager\obj\Debug\net5.0\FileManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\study\file_manager\FileManager\FileManager\obj\Debug\net5.0\FileManager.AssemblyInfoInputs.cache
+E:\C#\study\file_manager\FileManager\FileManager\obj\Debug\net5.0\FileManager.AssemblyInfo.cs
+E:\C#\study\file_manager\FileManager\FileManager\obj\Debug\net5.0\FileManager.csproj.CoreCompileInputs.cache
+E:\C#\study\file_manager\FileManager\FileManager\obj\Debug\net5.0\FileManager.dll
+E:\C#\study\file_manager\FileManager\FileManager\obj\Debug\net5.0\ref\FileManager.dll
+E:\C#\study\file_manager\FileManager\FileManager\obj\Debug\net5.0\FileManager.pdb
+E:\C#\study\file_manager\FileManager\FileManager\obj\Debug\net5.0\FileManager.genruntimeconfig.cache
